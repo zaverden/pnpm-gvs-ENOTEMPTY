@@ -2,7 +2,7 @@
 
 ```
 nvm use
-npm i -g pnpm@10.21.0
+npm i -g pnpm@10.23.0
 bash clone-projects.sh
 bash run.sh
 ```
